@@ -1,0 +1,7 @@
+﻿  Z3.cpp
+e:\lukasz m\gk_grupa3_mlynarski_lukasz_2\gk_grupa3_mlynarski_lukasz_2\z3.cpp(73): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\lukasz m\gk_grupa3_mlynarski_lukasz_2\gk_grupa3_mlynarski_lukasz_2\z3.cpp(74): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\lukasz m\gk_grupa3_mlynarski_lukasz_2\gk_grupa3_mlynarski_lukasz_2\z3.cpp(95): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\lukasz m\gk_grupa3_mlynarski_lukasz_2\gk_grupa3_mlynarski_lukasz_2\z3.cpp(96): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  GK_Grupa3_Mlynarski_Lukasz_2.vcxproj -> E:\Lukasz M\GK_Grupa3_Mlynarski_Lukasz_2\Debug\GK_Grupa3_Mlynarski_Lukasz_2.exe
+  GK_Grupa3_Mlynarski_Lukasz_2.vcxproj -> E:\Lukasz M\GK_Grupa3_Mlynarski_Lukasz_2\Debug\GK_Grupa3_Mlynarski_Lukasz_2.pdb (Partial PDB)
